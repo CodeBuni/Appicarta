@@ -1,0 +1,1 @@
+//Apagado por motivos de segurança de dados, visto que o OCR pode ser utilizado para extrair informações sensíveis de imagens. Se necessário, pode ser reativado com as devidas precauções de segurança.
